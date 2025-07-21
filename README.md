@@ -5,7 +5,8 @@
 🤝 I’m looking for help with **Agri-Connect** in terms of backend integration, data insights, and AI capabilities.  
 🌱 I’m currently learning **Artificial Intelligence and Machine Learning** to solve real-world problems through data.  
 👨‍💻 All of my projects are available at: [**Portfolio Website**](https://rajasekhar-pf.netlify.app/)  
-📄 Know about my experiences: [**Resume**](https://drive.google.com/file/d/1lCzyKh0NrHL0xbKVkS4IMFF-hJ-02HsD/view?usp=sharing)  
+📄 Know about my experiences: [**Resume**]([https://drive.google.com/file/d/1lCzyKh0NrHL0xbKVkS4IMFF-hJ-02HsD/view?usp=sharing](https://drive.google.com/file/d/1sbXSUVAtTm4lLWT521euBQTpwEQWDe2G/view?usp=sharing))  
+📄 Know about my experiences: [**Resume**]()  
 📫 Reach me at: kummararajasekhar17092004@gmail.com  
 
 ---
