@@ -1,13 +1,13 @@
 ### 👋 Hi there! I'm Rajasekhar
 
 🔭 I’m currently working on **Agri-Connect** – a smart agriculture platform aimed at empowering farmers through technology and connectivity.  
-👯 I’m looking to collaborate on **Agri-Connect** or other meaningful tech-for-good initiatives.  
-🤝 I’m looking for help with **Agri-Connect** in terms of backend integration, data insights, and AI capabilities.  
-🌱 I’m currently learning **Artificial Intelligence and Machine Learning** to solve real-world problems through data.  
-👨‍💻 All of my projects are available at: [**Portfolio Website**](https://rajasekhar-pf.netlify.app/)  
-📄 Know about my experiences: [**Resume**]([https://drive.google.com/file/d/1sbXSUVAtTm4lLWT521euBQTpwEQWDe2G/view?usp=sharing](https://drive.google.com/file/d/1Y-8cOgqVAR4Grm8DuB43gqWx5Rn1Jts5/view?usp=sharing))  
-📄 Know about my experiences: [**Resume**]()  
-📫 Reach me at: kummararajasekhar17092004@gmail.com  
+👯 I’m open to collaborating on **Agri-Connect** or other meaningful **tech-for-good initiatives**.  
+🤝 I’m seeking support for **Agri-Connect** in areas like backend integration, data insights, and AI capabilities.  
+🌱 Currently learning **Artificial Intelligence and Machine Learning** to solve real-world problems using data.  
+👨‍💻 Explore all my projects: [**Portfolio Website**](https://rajasekhar-pf.netlify.app/)  
+📄 Check out my experience: [**Resume**](https://drive.google.com/file/d/1Y-8cOgqVAR4Grm8DuB43gqWx5Rn1Jts5/view?usp=sharing)  
+📫 Reach me at: **kummararajasekhar17092004@gmail.com**
+
 
 ---
 
