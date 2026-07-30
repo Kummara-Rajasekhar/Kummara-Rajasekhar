@@ -2,7 +2,7 @@
 
 👋 Hi there! I'm **K Rajasekhar**
 💼 Selected for the **Specialist Programmer L1** role at **Infosys** and **GenC Next** at **Cognizant**  
-🎓 Graduated with a **Bachelor of Technology (B.Tech)** in **Computer Science and Engineering** from **Mohan Babu University, Tirupati (2026)**  
+🎓 Graduated with a **Bachelor of Technology (B.Tech)** in **Computer Science and Engineering** from **Mohan Babu University, Tirupati (2022-2026)**  
 💻 Passionate about building scalable full-stack applications and solving real-world problems through technology  
 🌱 Continuously expanding my expertise in **Artificial Intelligence**, **Machine Learning**, **System Design**, and **Cloud Technologies**  
 🧩 Strong foundation in **Data Structures & Algorithms**, with **900+ LeetCode problems** solved  
