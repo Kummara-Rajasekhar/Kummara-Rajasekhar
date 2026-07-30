@@ -1,23 +1,33 @@
-### 👋 Hi there! I'm Rajasekhar
+### 🚀 About Me
 
-🔭 I’m currently working on **Agri-Connect** – a smart agriculture platform aimed at empowering farmers through technology and connectivity.  
-👯 I’m open to collaborating on **Agri-Connect** or other meaningful **tech-for-good initiatives**.  
-🤝 I’m seeking support for **Agri-Connect** in areas like backend integration, data insights, and AI capabilities.  
-🌱 Currently learning **Artificial Intelligence and Machine Learning** to solve real-world problems using data.  
-👨‍💻 Explore all my projects: [**Portfolio Website**](https://rajasekhar-pf.netlify.app/)  
-📄 Check out my experience: [**Resume**](https://drive.google.com/file/d/1Y-8cOgqVAR4Grm8DuB43gqWx5Rn1Jts5/view?usp=sharing)  
-📫 Reach me at: **kummararajasekhar17092004@gmail.com**
+👋 Hi there! I'm **K Rajasekhar**
 
+💼 Selected for the **Specialist Programmer L1** role at **Infosys** and **GenC Next** at **Cognizant**  
+🎓 Graduated with a **Bachelor of Technology (B.Tech)** in **Computer Science and Engineering** from **Mohan Babu University, Tirupati (2022–2026)**  
+💻 Passionate about building scalable full-stack applications and solving real-world problems through technology  
+🌱 Continuously expanding my expertise in **Artificial Intelligence**, **Machine Learning**, **System Design**, and **Cloud Technologies**  
+🧩 Strong foundation in **Data Structures & Algorithms**, with **800+ LeetCode problems** solved  
+🚀 Interested in **Software Development**, **Backend Engineering**, **Full Stack Development**, and **AI-powered applications**  
+🤝 Open to collaborating on innovative software projects, open-source contributions, and impactful tech initiatives  
+
+---
+
+### 🌐 Connect & Links
+
+👨‍💻 **Portfolio Website:** [rajasekhar-pf.netlify.app](https://rajasekhar-pf.netlify.app/)  
+📄 **Resume:** [View Resume](https://drive.google.com/file/d/1Y-8cOgqVAR4Grm8DuB43gqWx5Rn1Jts5/view?usp=sharing)  
+📫 **Email:** [kummararajasekhar17092004@gmail.com](mailto:kummararajasekhar17092004@gmail.com)  
 
 ---
 
 ### 🎓 Education
 
-- **Bachelor of Technology (B.Tech) in Computer Science and Engineering**  
-  Mohan Babu University, Tirupati, Andhra Pradesh  
-  Duration: *2022 – 2026*  
-  📌 Currently in **4th Year**  
-  📌 Focus Areas: *Full Stack Development*, *Data Structures & Algorithms*, *Artificial Intelligence*, *Machine Learning*
+🎓 **Bachelor of Technology (B.Tech) in Computer Science and Engineering**  
+🏛️ Mohan Babu University, Tirupati, Andhra Pradesh  
+📅 *2022 – 2026*  
+📌 Completed **4th Year**  
+📌 **Focus Areas:** Full Stack Development, Data Structures & Algorithms, Artificial Intelligence, Machine Learning
+
 ---
 
 ### 💼 Technical Skills
